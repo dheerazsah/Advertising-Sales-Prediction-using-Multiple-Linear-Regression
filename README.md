@@ -1,2 +1,2 @@
-# Multiple Linear Regression Advertising Sales Prediction
+# Advertising Sales Prediction using Multiple Linear Regression 
  
