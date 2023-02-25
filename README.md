@@ -1,6 +1,6 @@
 # Advertising Sales Prediction using Multiple Linear Regression 
 
-Advertising Sales Prediction using Multiple Linear Regression is a data analysis project that aims to predict sales based on advertising spending using multiple linear regression. The project involves using a dataset that contains information on advertising spending on TV, radio, and newspaper, as well as the corresponding sales figures.
+Advertising Sales Prediction using Multiple Linear Regression is a data analysis project that aims to predict sales based on advertising spending using multiple linear regression. The project involves using a dataset that contains information on advertising spending on TV, Radio, Social Media, and Influencer, as well as the corresponding sales figures.Regression can be used to quantify the relationship between the different types of advertising and the sales, and to predict the sales given the different parameters of advertising.
 
 The steps involved in this project include:
 
