@@ -20,5 +20,5 @@ The steps involved in this project include:
 
 8. Model Deployment: Using the trained model to make predictions on new data. This step involves deploying the model in a production environment.
 
-In conclusion, Advertising-Sales-Prediction-using-Multiple-Linear-Regression is a data analysis project that involves predicting sales based on advertising spending using multiple linear regression. The project involves several steps, including data collection, cleaning, EDA, feature engineering, model selection, training, evaluation, and deployment.
+In conclusion, this project is a data analysis project that involves predicting sales based on advertising spending using multiple linear regression. The project involves several steps, including data collection, cleaning, EDA, feature engineering, model selection, training, evaluation, and deployment.
  
